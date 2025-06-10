@@ -1,0 +1,16 @@
+{
+    "levelTimes": [
+        {
+            "levelName": "Level 1",
+            "bestTime": 1.3093405961990357
+        },
+        {
+            "levelName": "Level 2",
+            "bestTime": 0.48541027307510378
+        },
+        {
+            "levelName": "Level 3",
+            "bestTime": 3.774160146713257
+        }
+    ]
+}
